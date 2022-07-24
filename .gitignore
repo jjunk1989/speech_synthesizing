@@ -1,0 +1,7 @@
+# synthesized audio
+*.wav
+*.txt
+test_resource
+node_modules
+setting.js
+

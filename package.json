@@ -1,0 +1,18 @@
+{
+  "name": "speech_synthesizing",
+  "version": "1.0.0",
+  "description": "synthesizing my recode",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fcx@pingxingyun.com",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^3.0.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.22.0",
+    "readline": "^1.3.0",
+    "wav": "^1.0.2"
+  }
+}
